@@ -1,2 +1,0 @@
-This is a file created from the local repository.
-Hi! I'm using github webpage to edit.
